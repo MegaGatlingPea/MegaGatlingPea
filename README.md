@@ -1,4 +1,4 @@
-# hello-world
+# MegaGatlingPea's Github Pages
 The repo is a practice to use Github workflow
 
 come on ! ZJUNB
